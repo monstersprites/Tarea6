@@ -1,0 +1,13 @@
+C:\Users\Daniel Lora\source\repos\Tarea6\bin\Debug\netcoreapp3.1\Tarea6.exe
+C:\Users\Daniel Lora\source\repos\Tarea6\bin\Debug\netcoreapp3.1\Tarea6.deps.json
+C:\Users\Daniel Lora\source\repos\Tarea6\bin\Debug\netcoreapp3.1\Tarea6.runtimeconfig.json
+C:\Users\Daniel Lora\source\repos\Tarea6\bin\Debug\netcoreapp3.1\Tarea6.runtimeconfig.dev.json
+C:\Users\Daniel Lora\source\repos\Tarea6\bin\Debug\netcoreapp3.1\Tarea6.dll
+C:\Users\Daniel Lora\source\repos\Tarea6\bin\Debug\netcoreapp3.1\Tarea6.pdb
+C:\Users\Daniel Lora\source\repos\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.csprojAssemblyReference.cache
+C:\Users\Daniel Lora\source\repos\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.AssemblyInfoInputs.cache
+C:\Users\Daniel Lora\source\repos\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.AssemblyInfo.cs
+C:\Users\Daniel Lora\source\repos\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lora\source\repos\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.dll
+C:\Users\Daniel Lora\source\repos\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.pdb
+C:\Users\Daniel Lora\source\repos\Tarea6\obj\Debug\netcoreapp3.1\Tarea6.genruntimeconfig.cache
